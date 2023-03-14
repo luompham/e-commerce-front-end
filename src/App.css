@@ -381,6 +381,40 @@ footer .input-group-text {
   background-color: white;
 }
 
-
-
 /* Special Product Ends*/
+
+/* Famous Card*/
+
+.famous-card .famous-content {
+  top: 10%;
+  left: 5%;
+}
+
+.famous-card img {
+  border-radius: 10px;
+}
+
+.famous-card h5 {
+  font-size: 0.81rem;
+  line-height: 1.25rem;
+  font-weight: 400;
+  color: white;
+  margin-bottom: 7px;
+  text-transform: uppercase;
+}
+
+.famous-card h6 {
+  font-size: 1.4rem;
+  line-height: 2.38rem;
+  font-weight: 500;
+  color: white;
+}
+
+.famous-card p {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 100;
+  color: white;
+}
+
+/* Famous Card Ends*/
