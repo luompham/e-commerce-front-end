@@ -361,6 +361,12 @@ footer .input-group-text {
   color: var(--color-1c1c1b);
 }
 
+.product-card p.description {
+  font-size: 0.81rem;
+  color: var(--color-777777);
+  margin-right: 20px;
+}
+
 .action-bar {
   top: 10%;
   right: -23px;
@@ -535,10 +541,11 @@ footer .input-group-text {
 
 .gr-12 .product-card .product-image {
   width: 270px;
+  height: auto;
 }
 
 .gr-12 .action-bar {
-  top: 13%;
+  top: 17%;
 }
 
 
