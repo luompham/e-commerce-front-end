@@ -636,3 +636,55 @@ ul.colors {
 }
 
 /* Compare Products Page Ends */
+
+/* Auth card */
+.auth-card {
+  padding: 20px;
+  margin: 30px auto;
+  width: 500px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.auth-card h3 {
+  font-size: 1.19rem;
+  font-weight: 500;
+  color: var(--color-777777);
+}
+
+.auth-card p {
+  font-size: 0.9rem;
+  color: var(--color-777777);
+}
+
+.auth-card .form-control {
+  height: 50px;
+  background-color: var(--color-f5f5f7);
+  color: var(--color-777777);
+  font-size: 1rem;
+  border-radius: 10px;
+  border-color: transparent;
+}
+
+
+.auth-card a {
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--color-1c1c1b);
+}
+
+.auth-card .signup {
+  background-color: var(--color-febd69);
+  color: var(--color-131921);
+}
+
+.auth-card .signup:hover {
+  background-color: var(--color-131921);
+  color: white;
+}
+
+.auth-card .login {
+  font-size: 1rem;
+}
+
+/* Auth card ends */
