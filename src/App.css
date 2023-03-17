@@ -469,7 +469,7 @@ footer .input-group-text {
   margin-top: 20px;
 }
 
-.filter-card .colors {
+ul.colors {
   list-style-type: none;
   display: flex;
   flex-wrap: wrap;
@@ -623,7 +623,13 @@ footer .input-group-text {
   justify-content: space-between;
   align-items: center;
   padding: 20px 0px;
-  border-top: 1px solid var(--color-f5f5f7);
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.compare-product-card .product-detail h5,
+.compare-product-card .product-detail p,
+.compare-product-card .product-detail ul {
+  margin-bottom: 0;
 }
 
 /* Compare Products Page Ends */
