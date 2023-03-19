@@ -21,7 +21,7 @@ const SingleBlog = () => {
                 <h3 className="title">
                   A Beautiful Sunday Morning Renaissance
                 </h3>
-                <img src="images/blog-1.jpg" className='img-fluid w-100 my-4' alt="blog-1" />
+                <img src="/images/blog-1.jpg" className='img-fluid w-100 my-4' alt="blog-1" />
                 <p>
                   You’re only as good as your last collection, which is an enormous pressure. I think there is something about luxury – it’s not something people need, but it’s what they want. It really pulls at their heart. I have a fantastic relationship with money.which is an enormous pressure. I think there is something about luxury – it’s not something people need, but it’s what they want. It really pulls at their heart. I have a fantastic relationship with money. I use it to buy my freedom. I’ve treated the waistcoat as if it were a corset.
                 </p>
