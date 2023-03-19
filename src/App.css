@@ -857,3 +857,57 @@ ul.colors {
 }
 
 /* Main Product Page Ends */
+
+/* Cart Page */
+
+.cart-header,
+.cart-data {
+  border-bottom: 1px solid #eaeaea;
+}
+
+.cart-header h4 {
+  font-size: 0.85rem;
+  counter-reset: var(--color-777777);
+}
+
+.cart-col-1 {
+  width: 40%;
+}
+
+.cart-col-1 p {
+  font-size: 0.88rem;
+  color: var(--color-777777);
+}
+
+.cart-col-2 {
+  width: 10%;
+}
+
+.cart-col-3 {
+  width: 15%;
+}
+
+.cart-col-4 {
+  width: 15%;
+}
+
+.cart-data h5.price {
+  font-size: 0.88rem;
+  color: var(--color-1c1c1b);
+}
+
+/* Cart Page Ends*/
+
+/* Checkout Page */
+.total {
+  font-size: 1rem;
+  color: var(--color-1c1c1b);
+}
+
+.total-price {
+  font-size: 1rem;
+  color: var(--color-777777);
+}
+
+
+/* Checkout Page Ends*/
